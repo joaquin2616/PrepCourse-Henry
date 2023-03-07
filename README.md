@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prueba M2 Prep Course
+Este proyecto es una prueba de como clonar un repositorio desde Github a mi computadora
